@@ -1,0 +1,22 @@
+{
+  "name": "gereji-translator",
+  "version": "0.0.1",
+  "description": "Language translator for gereji.",
+  "main": "translator.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dnjuguna/gereji-translator.git"
+  },
+  "keywords": [
+    "localization"
+  ],
+  "author": "David Njuguna <dnjuguna@gmail.com> (https://github.com/dnjuguna)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dnjuguna/gereji-translator/issues"
+  },
+  "homepage": "https://github.com/dnjuguna/gereji-translator"
+}
