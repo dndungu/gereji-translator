@@ -1,4 +1,4 @@
 gereji-translator
 =================
 
-Language translation.
+A language translator for the gereji web application framework.

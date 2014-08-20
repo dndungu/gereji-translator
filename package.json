@@ -1,7 +1,7 @@
 {
   "name": "gereji-translator",
-  "version": "0.0.1",
-  "description": "Language translator for gereji.",
+  "version": "0.0.2",
+  "description": "A language translator for the gereji web application framework.",
   "main": "translator.js",
   "scripts": {
     "test": "mocha"
